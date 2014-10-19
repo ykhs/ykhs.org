@@ -1,0 +1,5 @@
+title: ykhs.org
+url: "http://ykhs.org"
+markdown: redcarpet
+source: _source
+destination: _deploy
